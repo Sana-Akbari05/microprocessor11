@@ -34,6 +34,12 @@ Uploading document_5915876949804194346.mp4…
 <img width="930" height="711" alt="OLED_SCHEMATIC" src="https://github.com/user-attachments/assets/b9f7f1b6-581a-4edd-8fd8-a0a13474553d" />
 مشاهده خروجی:
 
+ءءءءءءءءءءءءءء
+
+
+https://github.com/user-attachments/assets/65867cd6-bb5a-47a9-acf6-a4e2e22394cf
+
+
 
 
 
@@ -48,7 +54,9 @@ Uploading document_5915876949804194346.mp4…
 مشاهده کد:
 11/HUMID_OLED/HUMID_OLED.ino
 مشاهده شماتیک:
-
+<img width="1047" height="702" alt="HUMID_OLED_schematic" src="https://github.com/user-attachments/assets/76a5d86e-92ae-4e67-ad9b-b78fd5003465" />
 مشاهده خروجی:
+
+https://github.com/user-attachments/assets/4c348ade-9109-473f-85d5-4bc7cead877b
 
 
